@@ -1,2 +1,2 @@
 # nodejs-api-authentication
-A Node.js Authentication API With JWT
+A Node.js API Authentication With JWT
